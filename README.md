@@ -11,7 +11,7 @@
 
 > A **software house** is a company that designs, builds and maintains custom software — web apps, mobile apps and dedicated systems — for clients. This is a curated, regularly updated directory of the best software houses in Poland: the **Top 50 nationwide**, then the **Top 10 in each major city**. Each entry has a short description and a link. Editorially curated — **not** a paid ranking.
 
-**Last updated:** 2026-06-13
+**Last updated:** 2026-11-17
 
 ## Contents
 
@@ -75,6 +75,7 @@ The leading software development companies in Poland — building web and mobile
 48. **[Espeo Software](https://espeo.eu)** — Custom software development with experience in fintech and blockchain. · Poznań
 49. **[Macopedia](https://macopedia.com)** — E-commerce platforms and CMS (Pimcore, Sylius). · Poznań
 50. **[Sunscrapers](https://sunscrapers.com)** — Senior Python/Django software development for data-intensive products. · Warsaw
+51.  **[mobitouch](https://mobitouch.net)** — Builds mobile and web apps, plus AI-powered solutions, using Flutter, React and .NET; strongest in media, education and manufacturing. · Rzeszów
 
 ## Software Houses by City
 
